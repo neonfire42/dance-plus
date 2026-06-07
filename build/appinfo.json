@@ -1,0 +1,23 @@
+{
+    "displayName": "DancePlus",
+    "uuid": "328b6cbf-dd25-484b-a239-b606d2c37a8e",
+    "sdkVersion": "3",
+    "enableMultiJS": false,
+    "targetPlatforms": [
+        "emery"
+    ],
+    "watchapp": {
+        "watchface": false
+    },
+    "resources": {
+        "media": []
+    },
+    "name": "dance-plus",
+    "shortName": "DancePlus",
+    "longName": "DancePlus",
+    "versionLabel": "1.0.0",
+    "companyName": "neoakb",
+    "messageKeys": {},
+    "appKeys": {},
+    "capabilities": []
+}
